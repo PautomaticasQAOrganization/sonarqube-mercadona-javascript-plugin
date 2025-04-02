@@ -1,0 +1,1 @@
+sonarqube mercadona javascript plugin
